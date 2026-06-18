@@ -1,4 +1,4 @@
-# d2c_churn_part4_api
+
 # D2C Customer Churn Prediction API
 
 ## Project Overview
