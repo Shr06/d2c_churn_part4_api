@@ -253,6 +253,11 @@ d2c_churn_part4_api/
 ├── monitoring_plan.md
 ├── README.md
 └── churn_model.ipynb
+└── screenshots/
+    ├── swagger_ui.png
+    ├── health_endpoint.png
+    ├── predict_endpoint.png
+    └── batch_predict_endpoint.png
 ```
 
 ---
