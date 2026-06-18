@@ -7,7 +7,7 @@ This project implements a production-ready FastAPI service for predicting custom
 
 The API uses a trained Logistic Regression pipeline to estimate the probability that a customer will churn based on behavioral, transactional, engagement, and support-related features.
 
-The trained model was developed using the `rfm_modeling_snapshot.csv` dataset and exported as `model.pkl`.
+The trained model was developed using the `rfm_modeling_snapshot.csv` dataset and exported as `model.pkl`.(can refer from churn_model.ipynb)
 
 ---
 
