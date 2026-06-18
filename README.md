@@ -237,13 +237,13 @@ The test suite validates:
 ## Repository Structure
 
 ```text
-fast_api/
+d2c_churn_part4_api/
 │
 ├── app/
 │   └── main.py
 │
-├── model/
-│   └── model.pkl
+├── model.pkl
+│ 
 │
 ├── tests/
 │   └── test_api.py
