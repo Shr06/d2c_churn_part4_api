@@ -184,7 +184,7 @@ Predict churn risk for multiple customers in a single request.
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Shr06/d2c_churn_part4_api>
 cd fast_api
 ```
 
